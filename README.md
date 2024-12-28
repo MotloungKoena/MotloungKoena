@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Developer | Computer Science Student | Passionate about Coding & Technology**  
 
-I’m currently a final-year Computer Science student at the University of the Free State, with a strong focus on **software development**, **web development**, 
+I am a recent Computer Science graduate from the University of the Free State, with a strong focus on **software development**, **web development**, 
 and **mobile app development**. I have practical experience with C#, ASP.NET, SQL, and Java. I’m also passionate about solving problems, contributing to open-source projects, and 
 exploring new technologies. 
 
