@@ -11,7 +11,7 @@ exploring new technologies.
 - Web Development: ASP.NET, HTML, CSS, Bootstrap
 - Mobile Development: Java (Android)
 - Databases: SQL (MySQL)
-- Tools: Git, Visual Studio
+- Tools: Git, Visual Studio, Visual Studio Code, Android Studio, Microsoft SQL Server Management Studio
 
   
 ### 📫 **Get in Touch:**
