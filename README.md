@@ -16,4 +16,4 @@ exploring new technologies.
   
 ### 📫 **Get in Touch:**
 - LinkedIn: www.linkedin.com/in/koena-motloung-4a83a9258
-- Email: 2019476593@ufs4life.ac.za
+- Email: motloungkoena@gmail.com
