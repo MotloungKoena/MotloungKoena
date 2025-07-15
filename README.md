@@ -9,7 +9,7 @@ exploring new technologies.
 🔧 **Technologies I Work With:**
 - Programming Languages: C#, Java, SQL, JavaScript
 - Web Development: ASP.NET, Angular, HTML5, CSS, Bootstrap
-- Mobile Development: Java (Android)
+- Mobile Development: Java & Kotlin (Android)
 - Databases: SQL (MySQL)
 - Tools: Git, Visual Studio, Visual Studio Code, Android Studio, Microsoft SQL Server Management Studio
 - Hosting: Azure
