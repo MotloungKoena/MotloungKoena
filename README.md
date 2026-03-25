@@ -1,4 +1,4 @@
-# Hi there, I am Motloung Koena 👋
+# Hi there, I am Koena 👋
 
 🚀 **The coding guru**  
 
