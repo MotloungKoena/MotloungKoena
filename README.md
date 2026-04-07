@@ -1,6 +1,6 @@
 # Hi there, I am Koena 👋
 
-🚀 **The coding guru**  
+🚀 **The colorful texts guy**  
 
 I am a recent Computer Science graduate from the University of the Free State, with a strong focus on **software development**, **web development**, 
 and **mobile app development**. I have practical experience with C#, ASP.NET, Angular, React, Spring Boot, SQL, and Java. I’m also passionate about solving problems, contributing to open-source projects, and 
